@@ -3,11 +3,13 @@ body {
 }
 
 h1 {
-    color: #FBF9F1;
+    color: #FCBF49;
     text-align: center;
 }
 
 p {
-    font-family: Amaranth;
-    font-size: 25px;
+    font-family: Droid Sans;
+    font-size: 30px;
+    text-align: center;
+    color: #F5F1DE;
 }
